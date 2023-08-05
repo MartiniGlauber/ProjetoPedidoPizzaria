@@ -1,0 +1,10 @@
+Dados do cliente:
+Nome: Lucas
+Telefone: 51 99999-9999
+Endereço: João Inácio - Porto Alegre
+
+Itens do pedido:
+Calabresa - Pequena - Massa integral -  -  -  - 1 - 48,00
+Frango com catupiry - Média -  - Borda cheddar -  -  - 1 - 70,50
+Chocolate com morango - Média -  -  - Borda chocolate -  - 1 - 70,50
+
